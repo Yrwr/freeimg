@@ -64,7 +64,7 @@
                     </div>
                     <div class = "menu layui-hide-lg layui-hide-md layui-hide-sm">
                         <ul class="layui-nav" lay-filter="">
-                            <li class="layui-nav-item"><a href="/found"><i class="layui-icon layui-icon-search"></i> 发现</a></li>
+                            <li class="layui-nav-item"><a href="/found"><i class="layui-icon layui-icon-search"></i> 浏览</a></li>
                         </ul>
                     </div>
                 </div>
