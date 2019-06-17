@@ -17,8 +17,8 @@
 * pathinfo
 
 ### 安装
-* 常规安装：[https://yrwr.net/1092.html#常规安装](https://yrwr.net/1092.html#常规安装)
-* 宝塔安装：[https://yrwr.net/1092.html#宝塔安装](https://yrwr.net/1092.html#宝塔安装)
+* 常规安装：[https://yrwr.net/1095.html#常规安装](https://yrwr.net/1095.html#常规安装)
+* 宝塔安装：[https://yrwr.net/1095.html#宝塔安装](https://yrwr.net/1095.html#宝塔安装)
 
 ### 联系我
-* Blog：[https://yrwr.net/](https://yrwr.net/)
+* Blog：[https://yrwr.net/](https://yrwr.net/1095.html)
